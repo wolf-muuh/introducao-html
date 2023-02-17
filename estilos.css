@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+}
+
+p {
+    color: tomato;
+    font-size: 80px;
+}
+
+h2{
+    color: fuchsia;
+    font-size: 50px;
+}
+
+#segundo{
+    background-color: aquamarine;
+    color: brown;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+}
+
+.diferente{
+    background-color: hotpink;
+    font-size: 40px;
+    
+}
